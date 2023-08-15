@@ -9,7 +9,7 @@
       "status": "Bienvenidos de nuevo <3",
       "avatar": "https://images.unsplash.com/photo-1541823709867-1b206113eafd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
       "banner": "https://qph.cf2.quoracdn.net/main-qimg-f2df0b399837e80e3bc9331745662057-lq",
-      "followers": [], 
+      "followers": 854, 
       "following": [],  
       "posts": []  
     },
@@ -22,7 +22,7 @@
       "status": "Rodando en la ciudad",
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-antecedentes-estudio_825367-1406.jpg?w=2000",
       "banner": "https://www.consumoteca.com/wp-content/uploads/Mujer-asiatica-Bin-Thieu-Unsplash.jpg",
-      "followers": [],  
+      "followers": 789,  
       "following": [],  
       "posts": []  
     },
@@ -35,7 +35,7 @@
       "status": "Sin cambiar",
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-parque_825367-1376.jpg?w=2000",
       "banner": "https://media.glamour.mx/photos/63f8f2926558f94d622a1f9e/16:9/w_2560%2Cc_limit/protectores_solares_coreanos.jpg",
-      "followers": [],  
+      "followers": 940,  
       "following": [],  
       "posts": []  
     },
@@ -48,7 +48,7 @@
       "status": "Una pausa para respirar!",
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-parque_825367-1400.jpg?w=2000",
       "banner": "https://images.hola.com/imagenes/belleza/tendencias/20220114202576/slugging-tecnica-coreana-hidratar-piel-cg/1-39-202/slugging-tecnica-coreana-hidratar-piel-t.jpg?tx=w_680",
-      "followers": [],  
+      "followers": 890,  
       "following": [],  
       "posts": []  
     },
@@ -61,7 +61,7 @@
       "status": "Work hard, play hard.",
       "avatar": "https://images.squarespace-cdn.com/content/v1/570184dd86db4320c44473b9/1591313444532-2I1IKUUXSHMFSBPWUMSX/belleza-coreana-mujer.jpg",
       "banner": "https://revistacoiffure.com/wp-content/uploads/2022/09/P57737_-_CosmC3A9tica_coreana_para_el_cuidado_del_cabello.jpg",
-      "followers": [],  
+      "followers": 920,  
       "following": [],  
       "posts": []  
     }
@@ -72,7 +72,7 @@
       "userId": 1,
       "content": "https://qph.cf2.quoracdn.net/main-qimg-cd455badcac65690343b2ae75cefb7aa-lq",
       "caption": "Paseando ando",
-      "likes": [],
+      "likes": 120,
       "comments": []
     },
     {
@@ -80,7 +80,7 @@
       "userId": 1,
       "content": "https://pm1.aminoapps.com/6354/204f3b053197cca5f7a2e2e3b8414403385154df_hq.jpg",
       "caption": "Nada mejor que acampar con tigo <3",
-      "likes": [],
+      "likes": 250,
       "comments": []
     },
     {
@@ -88,7 +88,7 @@
       "userId": 2,
       "content": "https://en.kepoper.com/wp-content/uploads/2020/10/Bae-Suzy-Pinterest.jpg",
       "caption": "Dandome una rodadita",
-      "likes": [],
+      "likes": 98,
       "comments": []
     },
     {
@@ -96,7 +96,7 @@
       "userId": 2,
       "content": "https://images.summitmedia-digital.com/preview/images/2022/05/27/bae-suzy-10-things-og-seo-intro-pic.jpg",
       "caption": "Muy orgullosa de mi hermanito!!!",
-      "likes": [],
+      "likes": 75,
       "comments": []
     },
     {
@@ -104,7 +104,7 @@
       "userId": 3,
       "content": "https://www.youtube.com/shorts/Y-wqXpEsT64",
       "caption": "¡Mis nuevas uñas!",
-      "likes": [],
+      "likes": 162,
       "comments": []
     },
     {
@@ -112,7 +112,7 @@
       "userId": 3,
       "content": "https://talkwithcelebs.com/wp-content/uploads/2019/12/rPL27_5f.jpg",
       "caption": "Delicioso",
-      "likes": [],
+      "likes": 140,
       "comments": []
     },
     {
@@ -128,7 +128,7 @@
       "userId": 4,
       "content": "https://www.youtube.com/shorts/e_FWd4O9VY4",
       "caption": "Llevame de nuevo a este lugar",
-      "likes": [],
+      "likes": 134,
       "comments": []
     },
     {
@@ -136,7 +136,7 @@
       "userId": 5,
       "content": "https://www.youtube.com/shorts/Z0GV8ppsyx4",
       "caption": "An amazing experience!!!",
-      "likes": [],
+      "likes": 88,
       "comments": []
     },
     {
@@ -144,7 +144,7 @@
       "userId": 5,
       "content": "https://i.pinimg.com/736x/ed/9b/a3/ed9ba337a87fd1a815f541c5aa1b3a4d.jpg",
       "caption": "Here we go again",
-      "likes": [],
+      "likes": 320,
       "comments": []
     }
 ],
