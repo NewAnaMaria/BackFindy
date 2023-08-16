@@ -70,7 +70,7 @@
     {
       "id": 1,
       "userId": 1,
-      "content": "https://qph.cf2.quoracdn.net/main-qimg-cd455badcac65690343b2ae75cefb7aa-lq",
+      "content": "https://www.youtube.com/embed/PUwhrmjHKTI",
       "caption": "Paseando ando",
       "likes": 120,
       "comments": []
@@ -94,16 +94,16 @@
     {
       "id": 4,
       "userId": 2,
-      "content": "https://images.summitmedia-digital.com/preview/images/2022/05/27/bae-suzy-10-things-og-seo-intro-pic.jpg",
-      "caption": "Muy orgullosa de mi hermanito!!!",
+      "content": "https://www.youtube.com/embed/6yi-18s_zXE",
+      "caption": "I love it <3",
       "likes": 75,
       "comments": []
     },
     {
       "id": 5,
       "userId": 3,
-      "content": "https://www.youtube.com/shorts/Y-wqXpEsT64",
-      "caption": "¡Mis nuevas uñas!",
+      "content": "https://www.youtube.com/embed/mIQWksvErCQ",
+      "caption": "¡Mis nuevo reto de maquillaje!",
       "likes": 162,
       "comments": []
     },
@@ -126,7 +126,7 @@
     {
       "id": 8,
       "userId": 4,
-      "content": "https://www.youtube.com/shorts/e_FWd4O9VY4",
+      "content": "https://www.youtube.com/embed/zXeQ-IN1ASQ",
       "caption": "Llevame de nuevo a este lugar",
       "likes": 134,
       "comments": []
@@ -134,7 +134,7 @@
     {
       "id": 9,
       "userId": 5,
-      "content": "https://www.youtube.com/shorts/Z0GV8ppsyx4",
+      "content": "https://www.youtube.com/embed/PvSactAXG5Y",
       "caption": "An amazing experience!!!",
       "likes": 88,
       "comments": []
