@@ -2,70 +2,75 @@
   "users": [
     {
       "id": 1,
-      "username": "Juana1",
+      "username": "Juana",
       "name": "Juana Valencia",
       "email": "juana@gmail.com",
       "password": "juana",
       "status": "Bienvenidos de nuevo <3",
       "avatar": "https://images.unsplash.com/photo-1541823709867-1b206113eafd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
       "banner": "https://qph.cf2.quoracdn.net/main-qimg-f2df0b399837e80e3bc9331745662057-lq",
-      "followers": 854, 
-      "following": [],  
-      "posts": []  
+      "story": "https://i.pinimg.com/564x/6d/93/12/6d9312dd1397c7ea252c84f592a2fc01.jpg",
+      "followers": 854,
+      "following": [],
+      "posts": []
     },
     {
-      "id": 2,
-      "username": "Angela2",
+      "username": "Angela",
       "name": "Angela Uriza",
       "email": "angela@gmail.com",
       "password": "angela",
-      "status": "Rodando en la ciudad",
+      "status": "Me encanta viajar!",
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-antecedentes-estudio_825367-1406.jpg?w=2000",
       "banner": "https://www.consumoteca.com/wp-content/uploads/Mujer-asiatica-Bin-Thieu-Unsplash.jpg",
-      "followers": 789,  
-      "following": [],  
-      "posts": []  
+      "story": "https://i.pinimg.com/564x/bb/be/ac/bbbeac7ff7dbfad39b5fa0c16a072c75.jpg",
+      "followers": 789,
+      "following": [],
+      "posts": [],
+      "id": 2
     },
     {
       "id": 3,
-      "username": "Camila3",
+      "username": "Camila",
       "name": "Camila Rojas",
       "email": "camila@gmail.com",
       "password": "camila",
       "status": "Sin cambiar",
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-parque_825367-1376.jpg?w=2000",
       "banner": "https://media.glamour.mx/photos/63f8f2926558f94d622a1f9e/16:9/w_2560%2Cc_limit/protectores_solares_coreanos.jpg",
-      "followers": 940,  
-      "following": [],  
-      "posts": []  
+      "story": "https://i.pinimg.com/564x/9d/68/6f/9d686f140655b788b42186cb359786d6.jpg",
+      "followers": 940,
+      "following": [],
+      "posts": []
     },
     {
-      "id": 4,
-      "username": "Daniela4",
-      "name": "Daniela Ardila",
+      "username": "Daniela",
+      "name": "Daniela Arango",
       "email": "daniela@gmail.com",
       "password": "daniela",
-      "status": "Una pausa para respirar!",
+      "status": "Respira, toma tiempo para ti!",
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-parque_825367-1400.jpg?w=2000",
-      "banner": "https://images.hola.com/imagenes/belleza/tendencias/20220114202576/slugging-tecnica-coreana-hidratar-piel-cg/1-39-202/slugging-tecnica-coreana-hidratar-piel-t.jpg?tx=w_680",
-      "followers": 890,  
-      "following": [],  
-      "posts": []  
+      "banner": "https://img.freepik.com/free-photo/cheerful-teenage-girl-makes-online-post-via-smartphone-looks-aside-with-dreamy-expression-updates-personal-profile-has-upbeat-mood-wears-transparent-glasses-casual-jumper-stands-indoor_273609-34204.jpg?w=740&t=st=1692222040~exp=1692222640~hmac=f168c0fb3e9182dc38d1aa0fb0faa81d647a08f0f6b6ae261a139d67287e1e6a",
+      "story": "https://i.pinimg.com/564x/68/96/94/6896942d2afbbf0f601a71a1b48bc7c0.jpg",
+      "followers": 554,
+      "following": [],
+      "posts": [],
+      "id": 4
     },
     {
       "id": 5,
-      "username": "Pilar5",
+      "username": "Pilar",
       "name": "Pilar Olivella",
       "email": "pilar@gmail.com",
       "password": "pilar",
       "status": "Work hard, play hard.",
       "avatar": "https://images.squarespace-cdn.com/content/v1/570184dd86db4320c44473b9/1591313444532-2I1IKUUXSHMFSBPWUMSX/belleza-coreana-mujer.jpg",
       "banner": "https://revistacoiffure.com/wp-content/uploads/2022/09/P57737_-_CosmC3A9tica_coreana_para_el_cuidado_del_cabello.jpg",
-      "followers": 920,  
-      "following": [],  
-      "posts": []  
+      "story": "https://i.pinimg.com/564x/7f/0d/e9/7f0de9a2680801f5a1169059b0fc4674.jpg",
+      "followers": 920,
+      "following": [],
+      "posts": []
     }
-],
+  ],
   "posts": [
     {
       "id": 1,
@@ -147,7 +152,7 @@
       "likes": 320,
       "comments": []
     }
-],
+  ],
   "comments": [
     {
       "id": 1,
@@ -191,6 +196,5 @@
       "text": "Goooo girrl",
       "timestamp": "timestamp_aqui"
     }
-]
+  ]
 }
-
