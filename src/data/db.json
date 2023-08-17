@@ -20,7 +20,7 @@
       "email": "angela@gmail.com",
       "password": "angela",
       "status": "Me encanta viajar, es increíble!",
-      "avatar": "https://i.pinimg.com/564x/fc/19/e2/fc19e262d344d65b9049ca6abbb1ec69.jpg",
+      "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-antecedentes-estudio_825367-1417.jpg",
       "banner": "https://www.consumoteca.com/wp-content/uploads/Mujer-asiatica-Bin-Thieu-Unsplash.jpg",
       "story": "https://i.pinimg.com/564x/bb/be/ac/bbbeac7ff7dbfad39b5fa0c16a072c75.jpg",
       "followers": 789,
@@ -77,7 +77,7 @@
       "userId": 1,
       "content": "https://www.youtube.com/embed/PUwhrmjHKTI",
       "caption": "Paseando ando",
-      "likes": 120,
+      "likes": 9,
       "comments": []
     },
     {
@@ -85,7 +85,7 @@
       "userId": 1,
       "content": "https://pm1.aminoapps.com/6354/204f3b053197cca5f7a2e2e3b8414403385154df_hq.jpg",
       "caption": "Nada mejor que acampar con tigo <3",
-      "likes": 250,
+      "likes": 105,
       "comments": []
     },
     {
@@ -93,7 +93,7 @@
       "userId": 2,
       "content": "https://en.kepoper.com/wp-content/uploads/2020/10/Bae-Suzy-Pinterest.jpg",
       "caption": "Dandome una rodadita",
-      "likes": 98,
+      "likes": 2,
       "comments": []
     },
     {
@@ -101,7 +101,7 @@
       "userId": 2,
       "content": "https://www.youtube.com/embed/6yi-18s_zXE",
       "caption": "I love it <3",
-      "likes": 75,
+      "likes": 1,
       "comments": []
     },
     {
@@ -117,7 +117,7 @@
       "userId": 3,
       "content": "https://talkwithcelebs.com/wp-content/uploads/2019/12/rPL27_5f.jpg",
       "caption": "Delicioso",
-      "likes": 140,
+      "likes": 1,
       "comments": []
     },
     {
@@ -125,7 +125,7 @@
       "userId": 4,
       "content": "https://kpopping.com/documents/84/4/3300/Bae-Suzy-for-Marie-Claire-Korea-Magazine-March-2021-x-Lancome-documents-3.jpeg?v=5d2f9",
       "caption": "Rincones de la ciudad!",
-      "likes": 205,
+      "likes": 50,
       "comments": []
     },
     {
@@ -156,7 +156,7 @@
       "userId": 4,
       "content": "https://i.pinimg.com/564x/ea/a1/9c/eaa19c3b41f02bc13254fe8a7296cc8b.jpg",
       "caption": "Hello!",
-      "likes": 5,
+      "likes": 105,
       "comments": [],
       "id": 11
     },
@@ -164,7 +164,7 @@
       "userId": 2,
       "content": "https://i.pinimg.com/564x/2a/7d/a9/2a7da92668a5844099d11b940bee7fc2.jpg",
       "caption": "My  favorite flowers <3 ",
-      "likes": 5,
+      "likes": 105,
       "comments": [],
       "id": 12
     },
@@ -172,7 +172,7 @@
       "userId": "5",
       "content": "https://i.pinimg.com/564x/f0/fc/b2/f0fcb26789aecfe88a21964ffeb6a9ce.jpg",
       "caption": "Hiii",
-      "likes": 5,
+      "likes": 105,
       "comments": [],
       "id": 13
     },
@@ -199,6 +199,38 @@
       "likes": 5,
       "comments": [],
       "id": 16
+    },
+    {
+      "userId": "5",
+      "content": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80",
+      "caption": "",
+      "likes": 5,
+      "comments": [],
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "content": "https://www.youtube.com/embed/H3IR-KfGxy4",
+      "caption": "viajando",
+      "likes": 5,
+      "comments": [],
+      "id": 18
+    },
+    {
+      "userId": "2",
+      "content": "https://bestasianwomen.com/wp-content/uploads/2020/04/asia8-820x1024.jpg",
+      "caption": "",
+      "likes": 5,
+      "comments": [],
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "content": "https://bestasianwomen.com/wp-content/uploads/2020/04/asia2-819x1024.jpg",
+      "caption": "",
+      "likes": 5,
+      "comments": [],
+      "id": 20
     }
   ],
   "comments": [
