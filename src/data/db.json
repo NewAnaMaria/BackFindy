@@ -9,6 +9,7 @@
       "avatar": "https://i.pinimg.com/564x/47/22/f2/4722f20acb45566013e0bd4e01f1fa75.jpg",
       "banner": "https://i.pinimg.com/564x/d0/91/57/d091577a9e2cec4c973e15692090a3e2.jpg",
       "story": "https://i.pinimg.com/564x/49/02/fc/4902fc8ca6df426e2254467a29560e47.jpg",
+      "saved": [],
       "followers": [
         {
           "id": "2",
@@ -25,7 +26,7 @@
       "id": 1
     },
     {
-      "username": "Hye Rim",
+      "username": "Hye Rim ",
       "name": "Kim Hye Rim",
       "email": "kim@gmail.com",
       "password": "kim",
@@ -33,6 +34,7 @@
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-antecedentes-estudio_825367-1417.jpg",
       "banner": "https://www.consumoteca.com/wp-content/uploads/Mujer-asiatica-Bin-Thieu-Unsplash.jpg",
       "story": "https://i.pinimg.com/564x/bb/be/ac/bbbeac7ff7dbfad39b5fa0c16a072c75.jpg",
+      "saved": [],
       "followers": [
         {
           "id": "1",
@@ -57,6 +59,7 @@
       "avatar": "https://i.pinimg.com/564x/4f/33/66/4f3366bd1e434b477e6b10799f1f3984.jpg",
       "banner": "https://media.glamour.mx/photos/63f8f2926558f94d622a1f9e/16:9/w_2560%2Cc_limit/protectores_solares_coreanos.jpg",
       "story": "https://i.pinimg.com/564x/9d/68/6f/9d686f140655b788b42186cb359786d6.jpg",
+      "saved": [],
       "followers": [],
       "following": [],
       "posts": [],
@@ -71,6 +74,7 @@
       "avatar": "https://i.pinimg.com/564x/1e/2e/35/1e2e35ecefdeefc3c92e2945b27ba5e7.jpg",
       "banner": "https://i.pinimg.com/564x/94/34/95/94349590b4b65535c2765835ff7f21c5.jpg",
       "story": "https://i.pinimg.com/564x/37/ae/45/37ae4528eb1cf01842b9f9c332069486.jpg",
+      "saved": [],
       "followers": [],
       "following": [],
       "posts": [],
@@ -85,6 +89,7 @@
       "avatar": "https://i.pinimg.com/564x/69/60/65/696065c6c56a1e67224cd9b997751b43.jpg",
       "banner": "https://revistacoiffure.com/wp-content/uploads/2022/09/P57737_-_CosmC3A9tica_coreana_para_el_cuidado_del_cabello.jpg",
       "story": "https://i.pinimg.com/564x/7f/0d/e9/7f0de9a2680801f5a1169059b0fc4674.jpg",
+      "saved": [],
       "followers": [],
       "following": [],
       "posts": [],
@@ -95,42 +100,41 @@
     {
       "id": 1,
       "userId": 1,
-      "content": "https://www.youtube.com/embed/PUwhrmjHKTI",
-      "caption": "Paseando ando",
-      "likes": 29,
+      "content": "https://www.youtube.com/embed/mm81JBGio30",
+      "caption": "A day in my life: from sunrise to sunset 🌄🌅 | Join me as I navigate through my daily routines and little adventures. #DayInTheLife #EverydayAdventures",
+      "likes": 130,
       "likedUsers": [
-        "5",
-        "2",
-        "4"
+        "2"
       ],
       "comments": []
     },
     {
       "id": 2,
       "userId": 1,
-      "content": "https://pm1.aminoapps.com/6354/204f3b053197cca5f7a2e2e3b8414403385154df_hq.jpg",
-      "caption": "Nada mejor que acampar con tigo <3",
-      "likes": 113,
-      "likedUsers": [],
+      "content": "https://i.pinimg.com/564x/8a/4a/ca/8a4acae1b8fe280730e892c105283da8.jpg",
+      "caption": "Chasing sunsets and embracing the golden hour vibes. 🌅✨ #SunsetLover #GoldenHourMagic",
+      "likes": 116,
+      "likedUsers": [
+        "2",
+        2,
+        1
+      ],
       "comments": []
     },
     {
       "id": 3,
       "userId": 2,
-      "content": "https://en.kepoper.com/wp-content/uploads/2020/10/Bae-Suzy-Pinterest.jpg",
-      "caption": "Dandome una rodadita",
-      "likes": 4,
-      "likedUsers": [
-        "5",
-        "1"
-      ],
+      "content": "https://i.pinimg.com/564x/c3/17/55/c31755dec5defed0dca198fb45470b42.jpg",
+      "caption": "Exploring new horizons and making memories along the way. 🌍✈️ #Wanderlust #AdventureAwaits",
+      "likes": 94,
+      "likedUsers": [],
       "comments": []
     },
     {
       "id": 4,
       "userId": 2,
-      "content": "https://www.youtube.com/embed/6yi-18s_zXE",
-      "caption": "I love it <3",
+      "content": "https://www.youtube.com/embed/TzxY4yZYOok",
+      "caption": "Cooking up a storm: Trying new recipes in the kitchen 🍳🍲 | Join me as I experiment with flavors and whip up delicious dishes. #CookingAdventures #FoodieFun",
       "likes": 2,
       "likedUsers": [
         "1"
@@ -141,8 +145,8 @@
       "id": 5,
       "userId": 3,
       "content": "https://www.youtube.com/embed/mIQWksvErCQ",
-      "caption": "¡Mis nuevo reto de maquillaje!",
-      "likes": 164,
+      "caption": "Korea vs. USA Makeup Styles: Exploring the diversity in makeup trends, from subtle K-beauty elegance to bold American glam. Which look speaks to you? 💄🌟 #MakeupCultureClash",
+      "likes": 264,
       "likedUsers": [
         "5"
       ],
@@ -152,7 +156,7 @@
       "id": 6,
       "userId": 3,
       "content": "https://talkwithcelebs.com/wp-content/uploads/2019/12/rPL27_5f.jpg",
-      "caption": "Delicioso",
+      "caption": "Embracing the Beauty Within ✨ Captured a moment that reflects my true self. Imperfections and all, this is me. #SelfLove #NaturalBeauty",
       "likes": 5,
       "likedUsers": [],
       "comments": []
@@ -160,17 +164,17 @@
     {
       "id": 7,
       "userId": 4,
-      "content": "https://kpopping.com/documents/84/4/3300/Bae-Suzy-for-Marie-Claire-Korea-Magazine-March-2021-x-Lancome-documents-3.jpeg?v=5d2f9",
-      "caption": "Rincones de la ciudad!",
-      "likes": 51,
+      "content": "https://i.pinimg.com/564x/1a/1e/68/1a1e6808dbb8576c96d75d633fca1023.jpg",
+      "caption": "Pedaling Through Serenity 🚴‍♀️🍃 Exploring the park on two wheels, feeling the wind against my skin and the rhythm of nature under my tires. Moments like these remind me of the simple joys of life. #BikeAdventures #NatureRide",
+      "likes": 251,
       "likedUsers": [],
       "comments": []
     },
     {
       "id": 8,
       "userId": 4,
-      "content": "https://www.youtube.com/embed/zXeQ-IN1ASQ",
-      "caption": "Llevame de nuevo a este lugar",
+      "content": "https://www.youtube.com/embed/KkMxrq-usYc",
+      "caption": "Into the Wild: Camping Adventure 🏕️🌄 Escaping the city lights and embracing the great outdoors. From setting up camp to stargazing by the fire, this video captures the essence of a memorable camping experience. Join me on this journey to reconnect with nature. #CampingUnderTheStars #WildernessEscape",
       "likes": 134,
       "likedUsers": [],
       "comments": []
@@ -178,8 +182,8 @@
     {
       "id": 9,
       "userId": 5,
-      "content": "https://www.youtube.com/embed/PvSactAXG5Y",
-      "caption": "An amazing experience!!!",
+      "content": "https://www.youtube.com/embed/fIw4zEoeUqc",
+      "caption":  "Exploring Suwon: Hidden Gems and Cultural Delights 🏯🌸 Embark on a visual journey through the charming city of Suwon, Korea. From the historic Hwaseong Fortress to the bustling markets and serene parks, this video showcases the must-visit spots that capture the heart and soul of Suwon. Join me in uncovering the magic! #SuwonAdventures #KoreaTravel",
       "likes": 89,
       "likedUsers": [],
       "comments": []
@@ -187,8 +191,8 @@
     {
       "id": 10,
       "userId": 5,
-      "content": "https://i.pinimg.com/736x/ed/9b/a3/ed9ba337a87fd1a815f541c5aa1b3a4d.jpg",
-      "caption": "Here we go again",
+      "content": "https://i.pinimg.com/564x/f6/00/b2/f600b24dd7b1770bab8e36be35ab11f5.jpg",
+      "caption": "Picnic Perfection 🍉🧺 An idyllic afternoon spent under the open sky, surrounded by nature's beauty. From the spread of delicious treats to the laughter shared, this picnic captured the essence of relaxation and connection. #PicnicTime #NatureBonding",
       "likes": 321,
       "likedUsers": [],
       "comments": []
@@ -196,7 +200,7 @@
     {
       "userId": 4,
       "content": "https://i.pinimg.com/564x/ea/a1/9c/eaa19c3b41f02bc13254fe8a7296cc8b.jpg",
-      "caption": "Hello!",
+      "caption": "Salt in the Air, Sand in My Hair 🌊☀️ A day by the beach, where worries melt away with each wave. The sun-kissed shores and endless horizon remind me of life's simple pleasures. #BeachEscape #OceanBreeze",
       "likes": 105,
       "likedUsers": [],
       "comments": [],
@@ -205,8 +209,8 @@
     {
       "userId": 2,
       "content": "https://i.pinimg.com/564x/2a/7d/a9/2a7da92668a5844099d11b940bee7fc2.jpg",
-      "caption": "My  favorite flowers <3 ",
-      "likes": 105,
+      "caption": "Lost in a sea of blooming beauty 🌸🌼 Exploring this enchanting field of flowers was like stepping into a dream. Nature's vibrant colors and gentle breeze were the perfect escape. #Nature'sCanvas #FieldOfBlooms",
+      "likes": 205,
       "likedUsers": [],
       "comments": [],
       "id": 12
@@ -214,7 +218,7 @@
     {
       "userId": "5",
       "content": "https://i.pinimg.com/564x/f0/fc/b2/f0fcb26789aecfe88a21964ffeb6a9ce.jpg",
-      "caption": "Hiii",
+      "caption": "Sun-Kissed Serenity ☀️🏞️ A day bathed in sunlight, with majestic mountains and a tranquil lake as the backdrop. Nature's masterpiece is on full display, and I'm here to soak in every breathtaking moment. #MountainEscape #NatureIsArt",
       "likes": 105,
       "likedUsers": [],
       "comments": [],
@@ -222,8 +226,8 @@
     },
     {
       "userId": 3,
-      "content": "https://www.youtube.com/embed/LelUbRG3Kro",
-      "caption": "Is amazing!",
+      "content": "https://www.youtube.com/embed/gN1b0_YDbBo",
+      "caption": "Fitness journey: My progress and tips for staying motivated 💪🏋️‍♀️ | Watch me share my fitness routine, setbacks, and how I keep pushing forward. #FitnessJourney #HealthGoals",
       "likes": 5,
       "likedUsers": [],
       "comments": [],
@@ -231,53 +235,53 @@
     },
     {
       "userId": 1,
-      "content": "https://www.youtube.com/embed/PUwhrmjHKTI",
-      "caption": "Hii",
-      "likes": 5,
+      "content": "https://www.youtube.com/embed/62BBbKIXxR4",
+      "caption": "DIY: Transforming my room into a cozy oasis 🏠✨ | Watch me revamp my space with DIY decor and organization tips. #RoomMakeover #CozySpace",
+      "likes": 55,
       "likedUsers": [],
       "comments": [],
       "id": 15
     },
     {
       "userId": 1,
-      "content": "https://i.pinimg.com/564x/eb/81/18/eb8118f764746bf59d92b6cf1c9be59c.jpg",
-      "caption": "Pool time, Splash!",
-      "likes": 5,
+      "content": "https://i.pinimg.com/564x/83/cb/60/83cb60c0d1723a79cbf0345236efb235.jpg",
+      "caption": "Lost in a world of books and cozy corners. 📚☕️ #BookwormLife #CozyReading",
+      "likes": 85,
       "likedUsers": [],
       "comments": [],
       "id": 16
     },
     {
       "userId": "5",
-      "content": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80",
-      "caption": "",
-      "likes": 5,
+      "content": "https://www.youtube.com/embed/WiJ887DBeu4",
+      "caption": "K-Beauty Haul: Exploring a Korean Makeup Wonderland 🛍️💄 Step into a world of vibrant colors and innovative beauty trends as I navigate the aisles of a Korean makeup store. From cushion compacts to lip tints, join me on this makeup shopping spree that's a journey of self-expression. #KBeautyHaul #MakeupAdventure",
+      "likes": 355,
       "likedUsers": [],
       "comments": [],
       "id": 17
     },
     {
-      "userId": 3,
-      "content": "https://www.youtube.com/embed/H3IR-KfGxy4",
-      "caption": "viajando",
+      "userId": "2",
+      "content": "https://www.youtube.com/embed/a3oG5ygdvXs",
+      "caption": " Travel diary: Exploring Seoul like a local 🌍✈️ | Follow along as I immerse myself in the culture, food, and sights of this amazing place. #TravelDiary #LocalExperience",
       "likes": 5,
       "likedUsers": [],
       "comments": [],
       "id": 18
     },
     {
-      "userId": "2",
-      "content": "https://bestasianwomen.com/wp-content/uploads/2020/04/asia8-820x1024.jpg",
-      "caption": "",
+      "userId": "3",
+      "content": "https://i.pinimg.com/564x/52/18/71/52187136ccd366889ff7039be98903e3.jpg",
+      "caption": "Chasing Spring Vibes 🌸🍃 A perfect day at the park, surrounded by blooming flowers and the sweet scent of spring. Nature's canvas is alive with color, and every step feels like a breath of fresh air. #SpringEscape #ParkAdventures",
       "likes": 5,
       "likedUsers": [],
       "comments": [],
       "id": 19
     },
     {
-      "userId": 2,
-      "content": "https://bestasianwomen.com/wp-content/uploads/2020/04/asia2-819x1024.jpg",
-      "caption": "",
+      "userId": 4,
+      "content": "https://www.youtube.com/embed/oPSg269Rfkg",
+      "caption": "Glowing Skin Secrets: Korean Skincare Haul 🌟✨ Dive into the world of K-beauty with this haul of innovative skincare products. From double cleansing to sheet masks, I'm exploring the steps that lead to radiant, glass-like skin. Get ready to unlock your skincare journey! #KBeautyObsession #SkinCareMagic",
       "likes": 5,
       "likedUsers": [],
       "comments": [],
@@ -288,44 +292,123 @@
     {
       "id": 1,
       "postId": 1,
-      "userId": 5,
-      "text": "¡Hermosa foto!",
-      "timestamp": "timestamp_aqui"
+      "userId": 2,
+      "text": "Loved joining you on this day-long journey! Your everyday routines are filled with such charm and unique moments. Can't wait for more of your adventures! 🌞🌟 #LifeInMotion #BeautifullyOrdinary"
     },
     {
       "id": 2,
-      "postId": 3,
+      "postId": 2,
       "userId": 3,
-      "text": "¡Amo tu ciudad tengo que volver!",
-      "timestamp": "timestamp_aqui"
+      "text": "Absolutely mesmerized by the breathtaking sunset! The golden hues are pure magic. ✨🌆 #Nature'sBeauty #GoldenHourGlow"
     },
     {
       "id": 3,
-      "postId": 5,
+      "postId": 15,
       "userId": 4,
-      "text": "¡Que lindo!",
-      "timestamp": "timestamp_aqui"
+      "text": "Your room makeover is pure inspiration! The DIY touches and cozy ambiance you've created make it an absolute oasis. 🏡✨ #HomeTransformed #PersonalStyle"
     },
     {
       "id": 4,
-      "postId": 7,
-      "userId": 2,
-      "text": "¡Buenos tiempos!",
-      "timestamp": "timestamp_aqui"
+      "postId": 16,
+      "userId": 5,
+      "text": "Nothing beats the feeling of getting lost in a captivating book while enjoying a warm cup of coffee. ☕️📖 #BookLover #PerfectReadingNook"
     },
     {
       "id": 5,
-      "postId": 9,
+      "postId": 3,
       "userId": 1,
-      "text": "such a good time",
-      "timestamp": "timestamp_aqui"
+      "text": "Living the adventure life to the fullest! Exploring new places, embracing diverse cultures, and collecting unforgettable memories. 🌎🌟 #WanderlustTrips #GlobalAdventurer"
     },
     {
       "id": 6,
-      "postId": 10,
+      "postId": 4,
+      "userId": 3,
+      "text": "Your culinary experiments are a treat for the eyes and the taste buds! Every dish you prepare is a masterpiece. Can't wait to try these recipes myself! 🍽️👩‍🍳 #FoodArtistry #TastyCreations"
+    },
+    {
+      "id": 7,
+      "postId": 12,
+      "userId": 4,
+      "text": "What a breathtaking sight! It's like you're dancing among the flowers, and the joy on your face says it all. Mother Nature truly knows how to create the most picturesque landscapes. 🌷✨ #FlowerMagic #BloomsEverywhere"
+    },
+    {
+      "id": 8,
+      "postId": 18,
+      "userId": 5,
+      "text": "What an incredible journey you've taken us on! Your travel diary captures the essence of Seoul and makes us feel like we're right there with you. 🌎✨ #TravelDreams #CulturalExploration"
+   
+    },
+    {
+      "id": 9,
+      "postId": 5,
+      "userId": 1,
+      "text": "Such an eye-opening video! Your comparison of Korean and American makeup styles is fascinating. The beauty of both worlds shines through your artistry. 💋✨ #MakeupDiversity"
+    },
+    {
+      "id": 10,
+      "postId": 19,
       "userId": 2,
-      "text": "Goooo girrl",
-      "timestamp": "timestamp_aqui"
+      "text": "What a delightful day you had! The park looks like a scene straight out of a fairytale with all those blossoms. Your smile says it all – pure joy in the heart of springtime. 🌷☀️ #NatureLover"
+    },
+    {
+      "id": 11,
+      "postId": 6,
+      "userId": 4,
+      "text": "You radiate confidence and authenticity in every pixel of this photo. Your inner glow is shining brighter than ever! ✨📸 #GenuineBeauty"
+    },
+    {
+      "id": 12,
+      "postId": 14,
+      "userId": 5,
+      "text": "Your fitness journey is so inspiring! Your dedication, progress, and honesty about setbacks motivate us all to stay committed to our health goals. 💪🏋️‍♀️ #StrongAndResilient #WellnessMatters"
+    },
+    {
+      "id": 13,
+      "postId": 11,
+      "userId": 1,
+      "text": "This photo captures the essence of relaxation and tranquility. The beach is your happy place, and it's evident from your radiant smile. Here's to the beauty of coastal serenity! 🏖️✨ #BeachDayBliss"
+    },
+    {
+      "id": 14,
+      "postId": 7,
+      "userId": 2,
+      "text":  "Cruising through the park on your bike, you've truly found your happy pace. The park's beauty paired with your adventurous spirit makes for a picture-perfect moment. 🌳🚴‍♀️ #OutdoorEscapade"
+    },
+    {
+      "id": 15,
+      "postId": 8,
+      "userId": 3,
+      "text": "Your camping video is a visual escape into nature's embrace. The crackling fire, the starlit sky – it's a reminder of the beauty and tranquility that await us outside. Thanks for taking us along on this virtual camping trip! 🏞️🔥 #NatureLovers"
+    },
+    {
+      "id": 16,
+      "postId": 20,
+      "userId": 5,
+      "text": "Your video is a treasure trove of K-beauty wisdom! Each product you showcased has me intrigued and ready to revamp my skincare routine. Your enthusiasm and knowledge shine through – here's to achieving that coveted Korean glow! 🌸💆‍♀️ #SkincareEnthusiast"
+    },
+    {
+      "id": 17,
+      "postId": 13,
+      "userId": 1,
+      "text": "This photo is a postcard-worthy scene that instantly transports me to a place of calm and wonder. The mountains, the lake, and that radiant sunshine – it's like a dreamy escape to a serene paradise. 🌄💙 #NatureBeauty"
+    },
+    {
+      "id": 18,
+      "postId":10,
+      "userId": 2,
+      "text": "Your picnic setup is like a scene from a fairytale! The ambiance, the delicious treats – it's a reminder that life's sweetest moments are often found in the simplest of settings. Here's to more picnics and cherished memories! 🌳🍓 #OutdoorDelights"
+    },
+    {
+      "id": 19,
+      "postId": 17,
+      "userId": 3,
+      "text": "Your video is a virtual tour of K-beauty heaven! Watching you browse through the store and discover new makeup treasures is like a makeup enthusiast's dream come true. Your excitement is contagious, and now I'm inspired to explore K-beauty too! 💋💅 #MakeupEnthusiast"
+    },
+    {
+      "id": 20,
+      "postId": 9,
+      "userId": 4,
+      "text": "Your video is like a personalized travel guide to Suwon! Every corner you explore, every cultural gem you uncover – it's evident that Suwon is a city rich in history and allure. Thanks for taking us along on this virtual tour, making us feel like we're right there with you! 🏰🌷 #TravelInspiration"
     }
   ]
 }
