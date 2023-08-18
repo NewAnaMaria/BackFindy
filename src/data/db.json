@@ -9,8 +9,30 @@
       "avatar": "https://images.unsplash.com/photo-1541823709867-1b206113eafd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
       "banner": "https://qph.cf2.quoracdn.net/main-qimg-f2df0b399837e80e3bc9331745662057-lq",
       "story": "https://i.pinimg.com/564x/6d/93/12/6d9312dd1397c7ea252c84f592a2fc01.jpg",
-      "followers": [],
-      "following": [],
+      "followers": [
+        {
+          "id": "2",
+          "username": "Angela"
+        },
+        {
+          "id": "5",
+          "username": "Pilar O"
+        }
+      ],
+      "following": [
+        {
+          "id": 2,
+          "username": "Angela"
+        },
+        {
+          "id": 3,
+          "username": "Camila"
+        },
+        {
+          "id": 4,
+          "username": "Dany"
+        }
+      ],
       "posts": [],
       "id": 1
     },
@@ -23,8 +45,34 @@
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-antecedentes-estudio_825367-1417.jpg",
       "banner": "https://www.consumoteca.com/wp-content/uploads/Mujer-asiatica-Bin-Thieu-Unsplash.jpg",
       "story": "https://i.pinimg.com/564x/bb/be/ac/bbbeac7ff7dbfad39b5fa0c16a072c75.jpg",
-      "followers": [],
-      "following": [],
+      "followers": [
+        {
+          "id": "5",
+          "username": "Pilar O"
+        },
+        {
+          "id": "1",
+          "username": "Juana V"
+        }
+      ],
+      "following": [
+        {
+          "id": 1,
+          "username": "Juana V"
+        },
+        {
+          "id": 3,
+          "username": "Camila"
+        },
+        {
+          "id": 5,
+          "username": "Pilar O"
+        },
+        {
+          "id": 4,
+          "username": "Dany"
+        }
+      ],
       "posts": [],
       "id": 2
     },
@@ -37,7 +85,20 @@
       "avatar": "https://i.pinimg.com/564x/4f/33/66/4f3366bd1e434b477e6b10799f1f3984.jpg",
       "banner": "https://media.glamour.mx/photos/63f8f2926558f94d622a1f9e/16:9/w_2560%2Cc_limit/protectores_solares_coreanos.jpg",
       "story": "https://i.pinimg.com/564x/9d/68/6f/9d686f140655b788b42186cb359786d6.jpg",
-      "followers": [],
+      "followers": [
+        {
+          "id": "2",
+          "username": "Angela"
+        },
+        {
+          "id": "5",
+          "username": "Pilar O"
+        },
+        {
+          "id": "1",
+          "username": "Juana V"
+        }
+      ],
       "following": [],
       "posts": [],
       "id": 3
@@ -51,7 +112,20 @@
       "avatar": "https://i.pinimg.com/564x/1e/2e/35/1e2e35ecefdeefc3c92e2945b27ba5e7.jpg",
       "banner": "https://i.pinimg.com/564x/74/28/b3/7428b3e28fc26f66d2a5f59bda370f0a.jpg",
       "story": "https://i.pinimg.com/564x/37/ae/45/37ae4528eb1cf01842b9f9c332069486.jpg",
-      "followers": [],
+      "followers": [
+        {
+          "id": "2",
+          "username": "Angela"
+        },
+        {
+          "id": "5",
+          "username": "Pilar O"
+        },
+        {
+          "id": "1",
+          "username": "Juana V"
+        }
+      ],
       "following": [],
       "posts": [],
       "id": 4
@@ -65,8 +139,30 @@
       "avatar": "https://i.pinimg.com/564x/69/60/65/696065c6c56a1e67224cd9b997751b43.jpg",
       "banner": "https://revistacoiffure.com/wp-content/uploads/2022/09/P57737_-_CosmC3A9tica_coreana_para_el_cuidado_del_cabello.jpg",
       "story": "https://i.pinimg.com/564x/7f/0d/e9/7f0de9a2680801f5a1169059b0fc4674.jpg",
-      "followers": [],
-      "following": [],
+      "followers": [
+        {
+          "id": "2",
+          "username": "Angela"
+        }
+      ],
+      "following": [
+        {
+          "id": 2,
+          "username": "Angela"
+        },
+        {
+          "id": 1,
+          "username": "Juana V"
+        },
+        {
+          "id": 4,
+          "username": "Dany"
+        },
+        {
+          "id": 3,
+          "username": "Camila"
+        }
+      ],
       "posts": [],
       "id": 5
     }
@@ -77,7 +173,10 @@
       "userId": 1,
       "content": "https://www.youtube.com/embed/PUwhrmjHKTI",
       "caption": "Paseando ando",
-      "likes": 9,
+      "likes": 27,
+      "likedUsers": [
+        "5"
+      ],
       "comments": []
     },
     {
@@ -85,7 +184,8 @@
       "userId": 1,
       "content": "https://pm1.aminoapps.com/6354/204f3b053197cca5f7a2e2e3b8414403385154df_hq.jpg",
       "caption": "Nada mejor que acampar con tigo <3",
-      "likes": 105,
+      "likes": 113,
+      "likedUsers": [],
       "comments": []
     },
     {
@@ -93,7 +193,10 @@
       "userId": 2,
       "content": "https://en.kepoper.com/wp-content/uploads/2020/10/Bae-Suzy-Pinterest.jpg",
       "caption": "Dandome una rodadita",
-      "likes": 2,
+      "likes": 3,
+      "likedUsers": [
+        "5"
+      ],
       "comments": []
     },
     {
@@ -102,6 +205,7 @@
       "content": "https://www.youtube.com/embed/6yi-18s_zXE",
       "caption": "I love it <3",
       "likes": 1,
+      "likedUsers": [],
       "comments": []
     },
     {
@@ -109,7 +213,10 @@
       "userId": 3,
       "content": "https://www.youtube.com/embed/mIQWksvErCQ",
       "caption": "¡Mis nuevo reto de maquillaje!",
-      "likes": 162,
+      "likes": 164,
+      "likedUsers": [
+        "5"
+      ],
       "comments": []
     },
     {
@@ -117,7 +224,8 @@
       "userId": 3,
       "content": "https://talkwithcelebs.com/wp-content/uploads/2019/12/rPL27_5f.jpg",
       "caption": "Delicioso",
-      "likes": 1,
+      "likes": 5,
+      "likedUsers": [],
       "comments": []
     },
     {
@@ -125,7 +233,8 @@
       "userId": 4,
       "content": "https://kpopping.com/documents/84/4/3300/Bae-Suzy-for-Marie-Claire-Korea-Magazine-March-2021-x-Lancome-documents-3.jpeg?v=5d2f9",
       "caption": "Rincones de la ciudad!",
-      "likes": 50,
+      "likes": 51,
+      "likedUsers": [],
       "comments": []
     },
     {
@@ -134,6 +243,7 @@
       "content": "https://www.youtube.com/embed/zXeQ-IN1ASQ",
       "caption": "Llevame de nuevo a este lugar",
       "likes": 134,
+      "likedUsers": [],
       "comments": []
     },
     {
@@ -141,7 +251,8 @@
       "userId": 5,
       "content": "https://www.youtube.com/embed/PvSactAXG5Y",
       "caption": "An amazing experience!!!",
-      "likes": 88,
+      "likes": 89,
+      "likedUsers": [],
       "comments": []
     },
     {
@@ -149,7 +260,8 @@
       "userId": 5,
       "content": "https://i.pinimg.com/736x/ed/9b/a3/ed9ba337a87fd1a815f541c5aa1b3a4d.jpg",
       "caption": "Here we go again",
-      "likes": 320,
+      "likes": 321,
+      "likedUsers": [],
       "comments": []
     },
     {
@@ -157,6 +269,7 @@
       "content": "https://i.pinimg.com/564x/ea/a1/9c/eaa19c3b41f02bc13254fe8a7296cc8b.jpg",
       "caption": "Hello!",
       "likes": 105,
+      "likedUsers": [],
       "comments": [],
       "id": 11
     },
@@ -165,6 +278,7 @@
       "content": "https://i.pinimg.com/564x/2a/7d/a9/2a7da92668a5844099d11b940bee7fc2.jpg",
       "caption": "My  favorite flowers <3 ",
       "likes": 105,
+      "likedUsers": [],
       "comments": [],
       "id": 12
     },
@@ -173,6 +287,7 @@
       "content": "https://i.pinimg.com/564x/f0/fc/b2/f0fcb26789aecfe88a21964ffeb6a9ce.jpg",
       "caption": "Hiii",
       "likes": 105,
+      "likedUsers": [],
       "comments": [],
       "id": 13
     },
@@ -181,6 +296,7 @@
       "content": "https://www.youtube.com/embed/LelUbRG3Kro",
       "caption": "Is amazing!",
       "likes": 5,
+      "likedUsers": [],
       "comments": [],
       "id": 14
     },
@@ -189,6 +305,7 @@
       "content": "https://www.youtube.com/embed/PUwhrmjHKTI",
       "caption": "Hii",
       "likes": 5,
+      "likedUsers": [],
       "comments": [],
       "id": 15
     },
@@ -197,6 +314,7 @@
       "content": "https://i.pinimg.com/564x/eb/81/18/eb8118f764746bf59d92b6cf1c9be59c.jpg",
       "caption": "Pool time, Splash!",
       "likes": 5,
+      "likedUsers": [],
       "comments": [],
       "id": 16
     },
@@ -205,6 +323,7 @@
       "content": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80",
       "caption": "",
       "likes": 5,
+      "likedUsers": [],
       "comments": [],
       "id": 17
     },
@@ -213,6 +332,7 @@
       "content": "https://www.youtube.com/embed/H3IR-KfGxy4",
       "caption": "viajando",
       "likes": 5,
+      "likedUsers": [],
       "comments": [],
       "id": 18
     },
@@ -221,6 +341,7 @@
       "content": "https://bestasianwomen.com/wp-content/uploads/2020/04/asia8-820x1024.jpg",
       "caption": "",
       "likes": 5,
+      "likedUsers": [],
       "comments": [],
       "id": 19
     },
@@ -229,6 +350,7 @@
       "content": "https://bestasianwomen.com/wp-content/uploads/2020/04/asia2-819x1024.jpg",
       "caption": "",
       "likes": 5,
+      "likedUsers": [],
       "comments": [],
       "id": 20
     }
