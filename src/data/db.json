@@ -1,168 +1,92 @@
 {
   "users": [
     {
-      "username": "Juana V",
-      "name": "Juana Valencia",
-      "email": "juana@gmail.com",
-      "password": "juana",
-      "status": "Welcome Guys <3",
-      "avatar": "https://images.unsplash.com/photo-1541823709867-1b206113eafd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
-      "banner": "https://qph.cf2.quoracdn.net/main-qimg-f2df0b399837e80e3bc9331745662057-lq",
-      "story": "https://i.pinimg.com/564x/6d/93/12/6d9312dd1397c7ea252c84f592a2fc01.jpg",
+      "username": "Ji Eun",
+      "name": "Park Ji Eun",
+      "email": "park@gmail.com",
+      "password": "park",
+      "status": "Exploring the world with a smile in every step 🌍✨ | Fashion, travel, and simple moments enthusiast | Capturing memories and sharing my passion.",
+      "avatar": "https://i.pinimg.com/564x/47/22/f2/4722f20acb45566013e0bd4e01f1fa75.jpg",
+      "banner": "https://i.pinimg.com/564x/d0/91/57/d091577a9e2cec4c973e15692090a3e2.jpg",
+      "story": "https://i.pinimg.com/564x/49/02/fc/4902fc8ca6df426e2254467a29560e47.jpg",
       "followers": [
         {
           "id": "2",
-          "username": "Angela"
-        },
-        {
-          "id": "5",
-          "username": "Pilar O"
+          "username": "Hye Rim"
         }
       ],
       "following": [
         {
           "id": 2,
-          "username": "Angela"
-        },
-        {
-          "id": 3,
-          "username": "Camila"
-        },
-        {
-          "id": 4,
-          "username": "Dany"
+          "username": "Hye Rim"
         }
       ],
       "posts": [],
       "id": 1
     },
     {
-      "username": "Angela",
-      "name": "Angela Uriza",
-      "email": "angela@gmail.com",
-      "password": "angela",
-      "status": "Me encanta viajar, es increíble!",
+      "username": "Hye Rim",
+      "name": "Kim Hye Rim",
+      "email": "kim@gmail.com",
+      "password": "kim",
+      "status": "Carving my own path and leaving colorful footprints everywhere I go 🎨🌈 | Hopeless dreamer | Finding joy in life's little details.",
       "avatar": "https://img.freepik.com/fotos-premium/retrato-hermosas-mujeres-coreanas-antecedentes-estudio_825367-1417.jpg",
       "banner": "https://www.consumoteca.com/wp-content/uploads/Mujer-asiatica-Bin-Thieu-Unsplash.jpg",
       "story": "https://i.pinimg.com/564x/bb/be/ac/bbbeac7ff7dbfad39b5fa0c16a072c75.jpg",
       "followers": [
         {
-          "id": "5",
-          "username": "Pilar O"
-        },
-        {
           "id": "1",
-          "username": "Juana V"
+          "username": "Ji Eun"
         }
       ],
       "following": [
         {
           "id": 1,
-          "username": "Juana V"
-        },
-        {
-          "id": 3,
-          "username": "Camila"
-        },
-        {
-          "id": 5,
-          "username": "Pilar O"
-        },
-        {
-          "id": 4,
-          "username": "Dany"
+          "username": "Ji Eun"
         }
       ],
       "posts": [],
       "id": 2
     },
     {
-      "username": "Camila",
-      "name": "Camila Rojas",
-      "email": "camila@gmail.com",
-      "password": "camila",
-      "status": "Thank U for sunshine~",
+      "username": "Soo Bin",
+      "name": "Lee Soo Bin",
+      "email": "lee@gmail.com",
+      "password": "lee",
+      "status": "Chasing adventures and cozy coffee spots ☕️🌄 | Photography and books lover 📸📚 | Creating my story one step at a time.",
       "avatar": "https://i.pinimg.com/564x/4f/33/66/4f3366bd1e434b477e6b10799f1f3984.jpg",
       "banner": "https://media.glamour.mx/photos/63f8f2926558f94d622a1f9e/16:9/w_2560%2Cc_limit/protectores_solares_coreanos.jpg",
       "story": "https://i.pinimg.com/564x/9d/68/6f/9d686f140655b788b42186cb359786d6.jpg",
-      "followers": [
-        {
-          "id": "2",
-          "username": "Angela"
-        },
-        {
-          "id": "5",
-          "username": "Pilar O"
-        },
-        {
-          "id": "1",
-          "username": "Juana V"
-        }
-      ],
+      "followers": [],
       "following": [],
       "posts": [],
       "id": 3
     },
     {
-      "username": "Dany",
-      "name": "Daniela Arango",
-      "email": "daniela@gmail.com",
-      "password": "daniela",
-      "status": "Respira, toma tiempo para ti!",
+      "username": "Ji Woo",
+      "name": "Jung Ji Woo",
+      "email": "jung@gmail.com",
+      "password": "jung",
+      "status": "Naturally smiling | Lover of fashion, music, and art | Embracing life day by day and sharing moments of inspiration.",
       "avatar": "https://i.pinimg.com/564x/1e/2e/35/1e2e35ecefdeefc3c92e2945b27ba5e7.jpg",
-      "banner": "https://i.pinimg.com/564x/74/28/b3/7428b3e28fc26f66d2a5f59bda370f0a.jpg",
+      "banner": "https://i.pinimg.com/564x/94/34/95/94349590b4b65535c2765835ff7f21c5.jpg",
       "story": "https://i.pinimg.com/564x/37/ae/45/37ae4528eb1cf01842b9f9c332069486.jpg",
-      "followers": [
-        {
-          "id": "2",
-          "username": "Angela"
-        },
-        {
-          "id": "5",
-          "username": "Pilar O"
-        },
-        {
-          "id": "1",
-          "username": "Juana V"
-        }
-      ],
+      "followers": [],
       "following": [],
       "posts": [],
       "id": 4
     },
     {
-      "username": "Pilar O",
-      "name": "Pilar Olivella",
-      "email": "pilar@gmail.com",
-      "password": "pilar",
-      "status": "Work hard, play hard.",
+      "username": "Eun Ji",
+      "name": "Jang Eun Ji",
+      "email": "jang@gmail.com",
+      "password": "jang",
+      "status": "Living in colors and radiating positivity 💖🌟 | Empowering fellow girls to reach their goals | Head over heels for life and warm hugs.",
       "avatar": "https://i.pinimg.com/564x/69/60/65/696065c6c56a1e67224cd9b997751b43.jpg",
       "banner": "https://revistacoiffure.com/wp-content/uploads/2022/09/P57737_-_CosmC3A9tica_coreana_para_el_cuidado_del_cabello.jpg",
       "story": "https://i.pinimg.com/564x/7f/0d/e9/7f0de9a2680801f5a1169059b0fc4674.jpg",
-      "followers": [
-        {
-          "id": "2",
-          "username": "Angela"
-        }
-      ],
-      "following": [
-        {
-          "id": 2,
-          "username": "Angela"
-        },
-        {
-          "id": 1,
-          "username": "Juana V"
-        },
-        {
-          "id": 4,
-          "username": "Dany"
-        },
-        {
-          "id": 3,
-          "username": "Camila"
-        }
-      ],
+      "followers": [],
+      "following": [],
       "posts": [],
       "id": 5
     }
@@ -173,9 +97,11 @@
       "userId": 1,
       "content": "https://www.youtube.com/embed/PUwhrmjHKTI",
       "caption": "Paseando ando",
-      "likes": 27,
+      "likes": 29,
       "likedUsers": [
-        "5"
+        "5",
+        "2",
+        "4"
       ],
       "comments": [],
       "tag": []
@@ -198,9 +124,10 @@
       "userId": 2,
       "content": "https://en.kepoper.com/wp-content/uploads/2020/10/Bae-Suzy-Pinterest.jpg",
       "caption": "Dandome una rodadita",
-      "likes": 3,
+      "likes": 4,
       "likedUsers": [
-        "5"
+        "5",
+        "1"
       ],
       "comments": [],
       "tag": [
@@ -213,13 +140,11 @@
       "userId": 2,
       "content": "https://www.youtube.com/embed/6yi-18s_zXE",
       "caption": "I love it <3",
-      "likes": 1,
-      "likedUsers": [],
-      "comments": [],
-      "tag": [
-        5,
-        4
-      ]
+      "likes": 2,
+      "likedUsers": [
+        "1"
+      ],
+      "comments": []
     },
     {
       "id": 5,
