@@ -140,7 +140,11 @@
       "likedUsers": [
         "1"
       ],
-      "comments": []
+      "comments": [],
+      "tag": [
+        1,
+        2
+      ]
     },
     {
       "id": 5,
@@ -229,7 +233,11 @@
       "likes": 105,
       "likedUsers": [],
       "comments": [],
-      "id": 11
+      "id": 11,
+      "tag": [
+        1,
+        2
+      ]
     },
     {
       "userId": 2,
