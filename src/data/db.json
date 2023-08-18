@@ -103,7 +103,8 @@
         "2",
         "4"
       ],
-      "comments": []
+      "comments": [],
+      "tag": []
     },
     {
       "id": 2,
@@ -112,7 +113,11 @@
       "caption": "Nada mejor que acampar con tigo <3",
       "likes": 113,
       "likedUsers": [],
-      "comments": []
+      "comments": [],
+      "tag": [
+        3,
+        4
+      ]
     },
     {
       "id": 3,
@@ -124,7 +129,11 @@
         "5",
         "1"
       ],
-      "comments": []
+      "comments": [],
+      "tag": [
+        1,
+        2
+      ]
     },
     {
       "id": 4,
@@ -146,7 +155,11 @@
       "likedUsers": [
         "5"
       ],
-      "comments": []
+      "comments": [],
+      "tag": [
+        3,
+        4
+      ]
     },
     {
       "id": 6,
@@ -155,7 +168,11 @@
       "caption": "Delicioso",
       "likes": 5,
       "likedUsers": [],
-      "comments": []
+      "comments": [],
+      "tag": [
+        3,
+        4
+      ]
     },
     {
       "id": 7,
@@ -164,7 +181,11 @@
       "caption": "Rincones de la ciudad!",
       "likes": 51,
       "likedUsers": [],
-      "comments": []
+      "comments": [],
+      "tag": [
+        3,
+        4
+      ]
     },
     {
       "id": 8,
@@ -173,7 +194,11 @@
       "caption": "Llevame de nuevo a este lugar",
       "likes": 134,
       "likedUsers": [],
-      "comments": []
+      "comments": [],
+      "tag": [
+        3,
+        4
+      ]
     },
     {
       "id": 9,
@@ -182,7 +207,11 @@
       "caption": "An amazing experience!!!",
       "likes": 89,
       "likedUsers": [],
-      "comments": []
+      "comments": [],
+      "tag": [
+        3,
+        4
+      ]
     },
     {
       "id": 10,
@@ -191,7 +220,11 @@
       "caption": "Here we go again",
       "likes": 321,
       "likedUsers": [],
-      "comments": []
+      "comments": [],
+      "tag": [
+        3,
+        4
+      ]
     },
     {
       "userId": 4,
@@ -209,6 +242,10 @@
       "likes": 105,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 12
     },
     {
@@ -218,6 +255,10 @@
       "likes": 105,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 13
     },
     {
@@ -227,6 +268,10 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 14
     },
     {
@@ -236,6 +281,10 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 15
     },
     {
@@ -245,6 +294,10 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 16
     },
     {
@@ -254,6 +307,10 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 17
     },
     {
@@ -263,6 +320,10 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 18
     },
     {
@@ -272,6 +333,10 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 19
     },
     {
@@ -281,6 +346,10 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
+      "tag": [
+        3,
+        4
+      ],
       "id": 20
     }
   ],
