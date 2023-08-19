@@ -9,17 +9,31 @@
       "avatar": "https://i.pinimg.com/564x/47/22/f2/4722f20acb45566013e0bd4e01f1fa75.jpg",
       "banner": "https://i.pinimg.com/564x/d0/91/57/d091577a9e2cec4c973e15692090a3e2.jpg",
       "story": "https://i.pinimg.com/564x/49/02/fc/4902fc8ca6df426e2254467a29560e47.jpg",
-      "saved": [],
+      "saved": [
+        4
+      ],
       "followers": [
         {
           "id": "2",
           "username": "Hye Rim"
+        },
+        {
+          "id": "3",
+          "username": "Soo Bin"
+        },
+        {
+          "id": "5",
+          "username": "Eun Ji"
         }
       ],
       "following": [
         {
           "id": 2,
           "username": "Hye Rim"
+        },
+        {
+          "id": 4,
+          "username": "Ji Woo"
         }
       ],
       "posts": [],
@@ -51,7 +65,7 @@
       "id": 2
     },
     {
-      "username": "Soo Bin",
+      "username": "L Soo Bin ",
       "name": "Lee Soo Bin",
       "email": "lee@gmail.com",
       "password": "lee",
@@ -59,9 +73,13 @@
       "avatar": "https://i.pinimg.com/564x/4f/33/66/4f3366bd1e434b477e6b10799f1f3984.jpg",
       "banner": "https://media.glamour.mx/photos/63f8f2926558f94d622a1f9e/16:9/w_2560%2Cc_limit/protectores_solares_coreanos.jpg",
       "story": "https://i.pinimg.com/564x/9d/68/6f/9d686f140655b788b42186cb359786d6.jpg",
-      "saved": [],
       "followers": [],
-      "following": [],
+      "following": [
+        {
+          "id": 1,
+          "username": "Ji Eun"
+        }
+      ],
       "posts": [],
       "id": 3
     },
@@ -75,7 +93,12 @@
       "banner": "https://i.pinimg.com/564x/94/34/95/94349590b4b65535c2765835ff7f21c5.jpg",
       "story": "https://i.pinimg.com/564x/37/ae/45/37ae4528eb1cf01842b9f9c332069486.jpg",
       "saved": [],
-      "followers": [],
+      "followers": [
+        {
+          "id": "1",
+          "username": "Ji Eun"
+        }
+      ],
       "following": [],
       "posts": [],
       "id": 4
@@ -89,9 +112,16 @@
       "avatar": "https://i.pinimg.com/564x/69/60/65/696065c6c56a1e67224cd9b997751b43.jpg",
       "banner": "https://revistacoiffure.com/wp-content/uploads/2022/09/P57737_-_CosmC3A9tica_coreana_para_el_cuidado_del_cabello.jpg",
       "story": "https://i.pinimg.com/564x/7f/0d/e9/7f0de9a2680801f5a1169059b0fc4674.jpg",
-      "saved": [],
+      "saved": [
+        1
+      ],
       "followers": [],
-      "following": [],
+      "following": [
+        {
+          "id": 1,
+          "username": "Ji Eun"
+        }
+      ],
       "posts": [],
       "id": 5
     }
@@ -102,12 +132,15 @@
       "userId": 1,
       "content": "https://www.youtube.com/embed/mm81JBGio30",
       "caption": "A day in my life: from sunrise to sunset 🌄🌅 | Join me as I navigate through my daily routines and little adventures. #DayInTheLife #EverydayAdventures",
-      "likes": 130,
+      "likes": 132,
       "likedUsers": [
-        "2"
+        "2",
+        "3",
+        "5"
       ],
       "comments": [],
-      "tag": []
+      "tag": 2,
+      "savedCount": null
     },
     {
       "id": 2,
@@ -120,16 +153,21 @@
         2,
         1
       ],
-      "comments": []
+      "comments": [],
+      "tag": 3,
+      "savedCount": null
     },
     {
       "id": 3,
       "userId": 2,
       "content": "https://i.pinimg.com/564x/c3/17/55/c31755dec5defed0dca198fb45470b42.jpg",
       "caption": "Exploring new horizons and making memories along the way. 🌍✈️ #Wanderlust #AdventureAwaits",
-      "likes": 94,
-      "likedUsers": [],
-      "comments": []
+      "likes": 95,
+      "likedUsers": [
+        "1"
+      ],
+      "comments": [],
+      "tag": 4
     },
     {
       "id": 4,
@@ -140,48 +178,48 @@
       "likedUsers": [
         "1"
       ],
-      "comments": []
+      "comments": [],
+      "tag": 5,
+      "savedCount": null
     },
     {
       "id": 5,
       "userId": 3,
       "content": "https://www.youtube.com/embed/mIQWksvErCQ",
       "caption": "Korea vs. USA Makeup Styles: Exploring the diversity in makeup trends, from subtle K-beauty elegance to bold American glam. Which look speaks to you? 💄🌟 #MakeupCultureClash",
-      "likes": 264,
+      "likes": 266,
       "likedUsers": [
-        "5"
+        "5",
+        "1",
+        1
       ],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ]
+      "tag": 1
     },
     {
       "id": 6,
       "userId": 3,
       "content": "https://talkwithcelebs.com/wp-content/uploads/2019/12/rPL27_5f.jpg",
       "caption": "Embracing the Beauty Within ✨ Captured a moment that reflects my true self. Imperfections and all, this is me. #SelfLove #NaturalBeauty",
-      "likes": 5,
-      "likedUsers": [],
+      "likes": 6,
+      "likedUsers": [
+        "1"
+      ],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ]
+      "tag": 2,
+      "savedCount": 0
     },
     {
       "id": 7,
       "userId": 4,
       "content": "https://i.pinimg.com/564x/1a/1e/68/1a1e6808dbb8576c96d75d633fca1023.jpg",
       "caption": "Pedaling Through Serenity 🚴‍♀️🍃 Exploring the park on two wheels, feeling the wind against my skin and the rhythm of nature under my tires. Moments like these remind me of the simple joys of life. #BikeAdventures #NatureRide",
-      "likes": 251,
-      "likedUsers": [],
+      "likes": 252,
+      "likedUsers": [
+        "3"
+      ],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ]
+      "tag": 3
     },
     {
       "id": 8,
@@ -191,36 +229,29 @@
       "likes": 134,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ]
+      "tag": 5
     },
     {
       "id": 9,
       "userId": 5,
       "content": "https://www.youtube.com/embed/fIw4zEoeUqc",
-      "caption":  "Exploring Suwon: Hidden Gems and Cultural Delights 🏯🌸 Embark on a visual journey through the charming city of Suwon, Korea. From the historic Hwaseong Fortress to the bustling markets and serene parks, this video showcases the must-visit spots that capture the heart and soul of Suwon. Join me in uncovering the magic! #SuwonAdventures #KoreaTravel",
+      "caption": "Exploring Suwon: Hidden Gems and Cultural Delights 🏯🌸 Embark on a visual journey through the charming city of Suwon, Korea. From the historic Hwaseong Fortress to the bustling markets and serene parks, this video showcases the must-visit spots that capture the heart and soul of Suwon. Join me in uncovering the magic! #SuwonAdventures #KoreaTravel",
       "likes": 89,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ]
+      "tag": 1
     },
     {
       "id": 10,
       "userId": 5,
       "content": "https://i.pinimg.com/564x/f6/00/b2/f600b24dd7b1770bab8e36be35ab11f5.jpg",
       "caption": "Picnic Perfection 🍉🧺 An idyllic afternoon spent under the open sky, surrounded by nature's beauty. From the spread of delicious treats to the laughter shared, this picnic captured the essence of relaxation and connection. #PicnicTime #NatureBonding",
-      "likes": 321,
-      "likedUsers": [],
+      "likes": 322,
+      "likedUsers": [
+        "1"
+      ],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ]
+      "tag": 2
     },
     {
       "userId": 4,
@@ -229,6 +260,7 @@
       "likes": 105,
       "likedUsers": [],
       "comments": [],
+      "tag": 3,
       "id": 11
     },
     {
@@ -238,10 +270,7 @@
       "likes": 205,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 4,
       "id": 12
     },
     {
@@ -251,10 +280,7 @@
       "likes": 105,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 1,
       "id": 13
     },
     {
@@ -264,10 +290,7 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 2,
       "id": 14
     },
     {
@@ -277,10 +300,7 @@
       "likes": 55,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 3,
       "id": 15
     },
     {
@@ -290,10 +310,7 @@
       "likes": 85,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 4,
       "id": 16
     },
     {
@@ -303,10 +320,7 @@
       "likes": 355,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 1,
       "id": 17
     },
     {
@@ -316,10 +330,7 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 3,
       "id": 18
     },
     {
@@ -329,10 +340,7 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 4,
       "id": 19
     },
     {
@@ -342,11 +350,17 @@
       "likes": 5,
       "likedUsers": [],
       "comments": [],
-      "tag": [
-        3,
-        4
-      ],
+      "tag": 5,
       "id": 20
+    },
+    {
+      "userId": "3",
+      "content": "https://i.pinimg.com/564x/f4/e9/1b/f4e91bc0f9b29ca899137eb17754dd44.jpg",
+      "caption": "This is Chuchu, my pet and my faithful friend, say hello!",
+      "likes": 5,
+      "likedUsers": [],
+      "comments": [],
+      "id": 21
     }
   ],
   "comments": [
@@ -397,7 +411,6 @@
       "postId": 18,
       "userId": 5,
       "text": "What an incredible journey you've taken us on! Your travel diary captures the essence of Seoul and makes us feel like we're right there with you. 🌎✨ #TravelDreams #CulturalExploration"
-   
     },
     {
       "id": 9,
@@ -433,7 +446,7 @@
       "id": 14,
       "postId": 7,
       "userId": 2,
-      "text":  "Cruising through the park on your bike, you've truly found your happy pace. The park's beauty paired with your adventurous spirit makes for a picture-perfect moment. 🌳🚴‍♀️ #OutdoorEscapade"
+      "text": "Cruising through the park on your bike, you've truly found your happy pace. The park's beauty paired with your adventurous spirit makes for a picture-perfect moment. 🌳🚴‍♀️ #OutdoorEscapade"
     },
     {
       "id": 15,
@@ -455,7 +468,7 @@
     },
     {
       "id": 18,
-      "postId":10,
+      "postId": 10,
       "userId": 2,
       "text": "Your picnic setup is like a scene from a fairytale! The ambiance, the delicious treats – it's a reminder that life's sweetest moments are often found in the simplest of settings. Here's to more picnics and cherished memories! 🌳🍓 #OutdoorDelights"
     },
@@ -470,6 +483,42 @@
       "postId": 9,
       "userId": 4,
       "text": "Your video is like a personalized travel guide to Suwon! Every corner you explore, every cultural gem you uncover – it's evident that Suwon is a city rich in history and allure. Thanks for taking us along on this virtual tour, making us feel like we're right there with you! 🏰🌷 #TravelInspiration"
+    },
+    {
+      "postId": 16,
+      "userId": "1",
+      "text": "Nice picture!",
+      "id": 21
+    },
+    {
+      "postId": 16,
+      "userId": 3,
+      "text": "Read is my hobby <3 ",
+      "id": 22
+    },
+    {
+      "postId": 5,
+      "userId": 1,
+      "text": "Is amazing <3",
+      "id": 23
+    },
+    {
+      "postId": 4,
+      "userId": 1,
+      "text": "I love Korean Food, Its delicious! ",
+      "id": 24
+    },
+    {
+      "postId": 7,
+      "userId": "3",
+      "text": "Beautifull place! ",
+      "id": 25
+    },
+    {
+      "postId": 21,
+      "userId": "3",
+      "text": " Cute puppy, it's adorable <3",
+      "id": 26
     }
   ]
 }
